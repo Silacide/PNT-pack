@@ -43,8 +43,7 @@
 			"translation": [0, -8.75, 9.25]
 		},
 		"head": {
-			"translation": [0, -10, 0],
-			"scale": [1.5, 1.5, 1.5]
+			"translation": [0, -8.25, 0]
 		}
 	}
 }
